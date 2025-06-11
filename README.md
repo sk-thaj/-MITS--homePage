@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+# 🌐 Micro Information Technology Services (MITS) - Landing Page
 
-## Project info
+This is a responsive and modern landing page for **Micro Information Technology Services (MITS)**, created as part of my internship project at **Micro IT**. The page introduces MITS, its mission, affiliations with top universities, and its growing social media presence.
 
-**URL**: https://lovable.dev/projects/c4f95a6b-5748-40c6-9cb3-bbf10aa338d6
+---
 
-## How can I edit this code?
+## 📌 Project Highlights
 
-There are several ways of editing your application.
+- ⚛️ **Built with React**
+- 💨 **Styled using Tailwind CSS**
+- 🧑‍💻 **Typed with TypeScript**
+- 📱 **Fully Responsive** on all devices
+- 🏛️ **Affiliations Section** featuring logos of 10+ top universities
+- 📊 **Social Media Stats** with follower count and network size
+- ♿ **Accessible Design** using semantic tags and alt texts
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c4f95a6b-5748-40c6-9cb3-bbf10aa338d6) and start prompting.
+## 🚀 Live Demo
 
-Changes made via Lovable will be committed automatically to this repo.
+[Click here to view the live project](#) <!-- Replace with your GitHub Pages / Vercel / Netlify link -->
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🎯 Project Purpose
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+> This landing page is designed to represent **Micro Information Technology Services (MITS)**—a tech organization dedicated to empowering students by building global university connections and growing a vast digital learning network.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🧰 Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c4f95a6b-5748-40c6-9cb3-bbf10aa338d6) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+| Tech            | Purpose                          |
+|-----------------|----------------------------------|
+| React           | Front-end library                |
+| TypeScript      | Type-safe development            |
+| Tailwind CSS    | Utility-first styling framework  |
+| HTML & CSS      | Markup and layout                |
