@@ -36,3 +36,4 @@ This is a responsive and modern landing page for **Micro Information Technology 
 | TypeScript      | Type-safe development            |
 | Tailwind CSS    | Utility-first styling framework  |
 | HTML & CSS      | Markup and layout                |
+| **AI Tools**   | Used for UI inspiration and design refinement |
